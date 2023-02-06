@@ -1,0 +1,2 @@
+class Point:
+    def __new__(cls, ):
